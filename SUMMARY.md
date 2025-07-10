@@ -23,3 +23,18 @@
 
 * [FAQ 🤔](poleznaya-informaciya/faq.md)
 * [Контакты 📲](poleznaya-informaciya/kontakty.md)
+
+## Group 1
+
+* [Quick Start](group-1/quick-start.md)
+* [Settings](group-1/settings.md)
+
+## Profiles
+
+* [Edit](profiles/edit.md)
+* [Profiles](profiles/profiles.md)
+* [Accounts](profiles/accounts.md)
+
+## Group 2
+
+* [Launch](group-2/launch.md)
