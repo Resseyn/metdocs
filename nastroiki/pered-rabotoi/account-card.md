@@ -20,6 +20,6 @@ icon: id-card
 7.  Можно нажать на кнопку PnL, чтобы открыть историю позиций в этом токене.\
     Также можно сгенерировать карточку PnL по нажатию "Share PnL".\\
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>
 8. Отображение ваших бинов в реальном времени
 9. [Переключатель SAP](accounts.md#sap)

@@ -5,11 +5,11 @@ icon: ellipsis-vertical
 
 # Конфигурация
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="476"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="476"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="RPC NODE" %}
-URL-адрес RPC Solana. Например Helius, ее можно получить на сайте [https://dashboard.helius.dev/](https://dashboard.helius.dev/) во вкладке Endpoints в разделе RPC URL&#x20;
+URL-адрес RPC Solana. Например Helius, ее можно получить на сайте [https://dashboard.helius.dev/](https://dashboard.helius.dev/) во вкладке Endpoints в разделе RPC URL
 {% endtab %}
 
 {% tab title="Priority Fee" %}

@@ -8,4 +8,4 @@ icon: rectangle-history
 В этой вкладке вы можете добавлять аккаунты для работы.\
 Есть возможность использовать несколько профилей для более гибкой настройки вашей стратегии. Для добавления нового профиля нажмите на _New Profile._ Каждый профиль хранит в себе отдельную информацию об аккаунтах.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>

@@ -7,7 +7,7 @@ description: >-
 
 # MeteoraFarmer ☄️
 
-<figure><img src=".gitbook/assets/Снимок экрана 2024-07-15 в 09.58.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 > Переоткрывание позиций при ликвидации
 
@@ -17,7 +17,7 @@ description: >-
 
 > Поддержка мультиаккинга
 
-> Постоянные обновления&#x20;
+> Постоянные обновления
 
 > Активное комьюнити, которое поможет вам с настройками и выбором пулов для фарма
 
