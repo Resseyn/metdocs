@@ -13,29 +13,16 @@
 
 ## Настройки
 
-* [Конфигурация 🛠](nastroiki/konfiguraciya/README.md)
-  * [Опции 🪛](nastroiki/konfiguraciya/opcii.md)
-  * [Менеджмент акаунтов 💻](nastroiki/konfiguraciya/menedzhment-akauntov.md)
-  * [АвтоФарм ⚙️](nastroiki/konfiguraciya/avtofarm.md)
-* [Использование 💎](nastroiki/ispolzovanie.md)
+* [Быстрый старт](nastroiki/bystryi-start.md)
+* [Перед работой](nastroiki/pered-rabotoi/README.md)
+  * [Конфигурация](nastroiki/pered-rabotoi/settings.md)
+  * [Аккаунты](nastroiki/pered-rabotoi/accounts.md)
+  * [Профили](nastroiki/pered-rabotoi/profiles.md)
+  * [Быстрое редактирование](nastroiki/pered-rabotoi/edit.md)
+  * [Кнопки старта](nastroiki/pered-rabotoi/launch.md)
+  * [Карточки аккаунтов](nastroiki/pered-rabotoi/account-card.md)
 
 ## Полезная информация
 
 * [FAQ 🤔](poleznaya-informaciya/faq.md)
 * [Контакты 📲](poleznaya-informaciya/kontakty.md)
-
-## Group 1
-
-* [Quick Start](group-1/quick-start.md)
-* [Settings](group-1/settings.md)
-
-## Profiles
-
-* [Edit](profiles/edit.md)
-* [Profiles](profiles/profiles.md)
-* [Accounts](profiles/accounts.md)
-
-## Launch Tab
-
-* [Start buttons](group-2/launch.md)
-* [Account card](launch-tab/account-card.md)

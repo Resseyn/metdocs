@@ -1,14 +1,15 @@
 ---
 description: Менеджмент аккаунтов.
+icon: file-user
 ---
 
-# Accounts
+# Аккаунты
 
 ## Добавление аккаунта.
 
 Рядом с каждым полем настройки есть восклицательный знак, который показывает подсказки и назначение полей.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="340"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="340"><figcaption></figcaption></figure></div>
 
 {% tabs %}
 {% tab title="Private key" %}
@@ -21,11 +22,11 @@ description: Менеджмент аккаунтов.
 
 {% tab title="SOL to leave" %}
 Количество SOL, которое останется на аккаунте. (нужно для комиссий, не рекомендуется ставить меньше 0.052)\
-Например у вас на аккаунте 2.1 SOL. Вы вписываете 0.1 в поле и в пул зайдут 2 соланы.
+Например у вас на аккаунте 2.1 SOL. Вы вписываете 0.1 в поле и в пул зайдут 2 соланы, перед этим свапнувший по заданному Ratio.
 {% endtab %}
 {% endtabs %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="336"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="336"><figcaption></figcaption></figure></div>
 
 {% tabs %}
 {% tab title="Bins" %}
@@ -45,13 +46,13 @@ description: Менеджмент аккаунтов.
 {% endtab %}
 {% endtabs %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt="" width="338"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="338"><figcaption></figcaption></figure></div>
 
 Ratio settings отвечает за распределение средств во время открытия и переоткрытия позиций
 
 {% tabs %}
 {% tab title="Default" %}
-Соотношение при первом открытии пула. 50 для открытия 50/50.&#x20;
+Соотношение при первом открытии пула. 50 для открытия 50/50.
 {% endtab %}
 
 {% tab title="Left" %}
@@ -63,7 +64,7 @@ Ratio settings отвечает за распределение средств �
 {% endtab %}
 {% endtabs %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="341"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
 {% tabs %}
 {% tab title="Proxy" %}
@@ -75,7 +76,7 @@ Ratio settings отвечает за распределение средств �
 {% endtab %}
 
 {% tab title="TP/SL" %}
-Можете выставить цену за токен (в  USDC), при которых софт будет прекращать работу с аккаунтом.&#x20;
+Можете выставить цену за токен (в USDC), при которых софт будет прекращать работу с аккаунтом.
 {% endtab %}
 {% endtabs %}
 
@@ -96,7 +97,7 @@ Ratio settings отвечает за распределение средств �
 
 После настройки важно нажать SAVE.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Чтобы удалить аккаунт — нажимаете ПКМ по карточке аккаунта и **"Delete".**
