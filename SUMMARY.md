@@ -1,13 +1,10 @@
 # Table of contents
 
 * [MeteoraFarmer ☄️](README.md)
-  * [MeteoraAutoFarmer 💸](meteorafarmer/meteoraautofarmer.md)
 
 ## Фарминг
 
 * [Юзкейсы 🧐](farming/yuzkeisy.md)
-* [Пример работы MeteoraFarmer 🖥](farming/primer-raboty-meteorafarmer.md)
-* [Пример работы MeteoraAutoFarmer 🖥](farming/primer-raboty-meteoraautofarmer.md)
 * [Успехи и отзывы](farming/uspekhi-i-otzyvy.md)
 * [Управление рисками автофарма](farming/upravlenie-riskami-avtofarma.md)
 
