@@ -35,6 +35,7 @@
 * [Profiles](profiles/profiles.md)
 * [Accounts](profiles/accounts.md)
 
-## Group 2
+## Launch Tab
 
-* [Launch](group-2/launch.md)
+* [Start buttons](launch-tab/start-buttons.md)
+* [Account card](launch-tab/account-card.md)
