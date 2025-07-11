@@ -37,5 +37,5 @@
 
 ## Launch Tab
 
-* [Start buttons](launch-tab/start-buttons.md)
+* [Start buttons](group-2/launch.md)
 * [Account card](launch-tab/account-card.md)

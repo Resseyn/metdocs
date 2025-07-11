@@ -4,7 +4,7 @@ description: Настройка софта.
 
 # Settings
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="476"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="476"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="RPC NODE" %}

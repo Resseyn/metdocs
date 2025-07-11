@@ -8,7 +8,7 @@ description: Менеджмент аккаунтов.
 
 Рядом с каждым полем настройки есть восклицательный знак, который показывает подсказки и назначение полей.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="340"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="340"><figcaption></figcaption></figure></div>
 
 {% tabs %}
 {% tab title="Private key" %}
