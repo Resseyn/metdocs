@@ -17,6 +17,7 @@
 * [Быстрый старт](nastroiki/bystryi-start.md)
 * [Перед работой](nastroiki/pered-rabotoi/README.md)
   * [Конфигурация](nastroiki/pered-rabotoi/settings.md)
+  * [AutoFarmer](nastroiki/pered-rabotoi/autofarmer.md)
   * [Аккаунты](nastroiki/pered-rabotoi/accounts.md)
   * [Профили](nastroiki/pered-rabotoi/profiles.md)
   * [Быстрое редактирование](nastroiki/pered-rabotoi/edit.md)
